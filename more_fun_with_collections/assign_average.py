@@ -13,4 +13,4 @@ def switch_average(key_val):
 
 
     }
-    return switch.get(key_val)
+    return switch.get(key_val, "invalid key")
