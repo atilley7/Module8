@@ -1,2 +1,9 @@
+"""
+Avery Tilley
+10/19/20
+Program Checks if a query is in a dictionary
+"""
+
+
 def in_dict(d, element):
-    pass
+    return element in d
