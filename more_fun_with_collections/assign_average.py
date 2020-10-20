@@ -7,7 +7,10 @@ def switch_average(key_val):
         'C':"three",
         'c':"three",
         'D':"four",
-        'd':"four"
+        'd':"four",
+        'E':"five",
+        'e':"five"
+
 
     }
     return switch.get(key_val)
